@@ -34,8 +34,10 @@
 ---
 
 ## 📂 Featured Projects  
-🔹 <span style="color: cyan;">*[Real-time chat Application with Docker and Kubernetes](https://github.com/yasmeen7901/chatbot)*</span>  
-🔹 <span style="color: cyan;">[Deploying a Scalable App with Kubernetes](your_project_link)</span>  
+🔹 <span style="color: cyan;">*Real-time chat Application with Docker and Kubernetes🔗[GitHub Repository](https://github.com/yasmeen7901/chatbot)*</span>
+
+🔹 <span style="color: cyan;">Cloud_Cart_Static_Website_Hosting 🔗[GitHub Repository](https://github.com/yasmeen7901/Cloud_cart_static_website_hosting)  📹 [Live Demo Video](https://drive.google.com/drive/folders/1Msm99sjgdqAncwEsdbsnqICHF1WC28aq)</span>
+  
 🔹 <span style="color: cyan;">[Automating Infrastructure with Terraform](your_project_link)</span>  
 
 <span style="color: cyan;">Check out my projects: [GitHub Repositories](https://github.com/yasmeen7901)</span>  
