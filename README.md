@@ -1,7 +1,7 @@
 <h1 align="center" style="color: cyan; font-family: Arial, sans-serif;">Hi, I'm <span style="color: cyan;">Yasmeen R A</span> 👋</h1>
 
 <p align="center">
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-cyan?style=for-the-badge&logo=web&logoColor=black"></a>
+  <a href="https://yasmeen7901.github.io/yas-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-cyan?style=for-the-badge&logo=web&logoColor=black"></a>
   <a href="https://www.linkedin.com/in/yasmeenra"><img src="https://img.shields.io/badge/LinkedIn-Connect-cyan?style=for-the-badge&logo=linkedin&logoColor=black"></a>
 </p>
 
